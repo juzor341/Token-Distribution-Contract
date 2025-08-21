@@ -1,4 +1,4 @@
-;; Nexus Rewards Protocol - Token Distribution Contract
+;; Token Distribution Contract
 ;; Define the fungible token for distributed rewards
 (define-fungible-token nexus-token)
 

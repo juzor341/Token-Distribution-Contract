@@ -1,4 +1,4 @@
-;; Echelon Advancement Protocol - Tier Management Contract
+;; Tier Management Contract
 ;; Define constants
 (define-constant protocol-administrator tx-sender)
 (define-constant err-admin-only (err u100))
